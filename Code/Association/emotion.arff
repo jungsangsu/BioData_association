@@ -1,0 +1,16 @@
+@RELATION emotion
+
+@ATTRIBUTE faceemotion {angry,neutral,surprise}
+@ATTRIBUTE temperature {base,up}
+
+@DATA
+neutral,base
+neutral,base
+angry,up
+angry,up
+neutral,base
+angry,up
+surprise,up
+neutral,base
+surprise,up
+angry,up
