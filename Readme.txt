@@ -1,11 +1,12 @@
-°¨Á¤µ¥ÀÌÅÍ¿Í »ýÃ¼µ¥ÀÌÅÍ °£ÀÇ ¿¬°ü¼º ºÐ¼®
-- ´Ù¾çÇÑ »óÈ²¿¡¼­ ÃßÃâÇÑ °¨Á¤µ¥ÀÌÅÍ¿Í ±×¿¡ µû¸¥ »ýÃ¼½ÅÈ£[ECG,EEG,EDA] µ¥ÀÌÅÍ°£ÀÇ ¿¬°ü¼º ºÐ¼®À» ÅëÇØ ´õ ½Å·ÚÀûÀÎ °¨Á¤ µ¥ÀÌÅÍ ÁöÇ¥¸¦ Á¦°ø
+ê°ì •ë°ì´í„°ì™€ ìƒì²´ë°ì´í„° ê°„ì˜ ì—°ê´€ì„± ë¶„ì„
+- ë‹¤ì–‘í•œ ìƒí™©ì—ì„œ ì¶”ì¶œí•œ ê°ì •ë°ì´í„°ì™€ ê·¸ì— ë”°ë¥¸ ìƒì²´ì‹ í˜¸[ECG,EEG,EDA] ë°ì´í„°ê°„ì˜ ì—°ê´€ì„± ë¶„ì„ì„ í†µí•´ ë” ì‹ ë¢°ì ì¸ ê°ì • ë°ì´í„° ì§€í‘œë¥¼
+  ì œê³µ
 
-Association : ¿¬°ü¼º ºÐ¼® °ü·Ã, Weka Tool ÀÌ¿ë
-ECG : ½É¹Ú¼ö ÃøÁ¤ °ü·ÃÄÚµå, fitbit ÆÈÂî ÀÌ¿ë
-EDA : ÇÇºÎÀüµµ ÃøÁ¤ °ü·ÃÄÚµå, bitalino ¸ÖÆ¼¼¾¼­ »ç¿ë
-EEG : ³úÆÄ ÃøÁ¤ °ü·ÃÄÚµå, bitalino ¸ÖÆ¼¼¾¼­ »ç¿ë
-EMG : ±ÙÀüµµ ÃøÁ¤ °ü·ÃÄÚµå, bitalino ¸ÖÆ¼¼¾¼­ »ç¿ë
+Association : ì—°ê´€ì„± ë¶„ì„ ê´€ë ¨, Weka Tool ì´ìš©
+ECG : ì‹¬ë°•ìˆ˜ ì¸¡ì • ê´€ë ¨ì½”ë“œ, fitbit íŒ”ì°Œ ì´ìš©
+EDA : í”¼ë¶€ì „ë„ ì¸¡ì • ê´€ë ¨ì½”ë“œ, bitalino ë©€í‹°ì„¼ì„œ ì‚¬ìš©
+EEG : ë‡ŒíŒŒ ì¸¡ì • ê´€ë ¨ì½”ë“œ, bitalino ë©€í‹°ì„¼ì„œ ì‚¬ìš©
+EMG : ê·¼ì „ë„ ì¸¡ì • ê´€ë ¨ì½”ë“œ, bitalino ë©€í‹°ì„¼ì„œ ì‚¬ìš©
 
 
 bitalino : http://bitalino.com/en/
